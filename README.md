@@ -1,2 +1,1 @@
-# lupipi
-屁屁的网站
+Mac快捷启动器JLauncher
